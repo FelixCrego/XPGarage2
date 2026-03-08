@@ -1,0 +1,32 @@
+<svg width="420" height="160" viewBox="0 0 420 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gold" x1="90" y1="30" x2="330" y2="70" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8E8A5"/>
+      <stop offset="0.28" stop-color="#D9AF54"/>
+      <stop offset="0.52" stop-color="#B98030"/>
+      <stop offset="0.74" stop-color="#E3C36E"/>
+      <stop offset="1" stop-color="#8E5C1F"/>
+    </linearGradient>
+  </defs>
+
+  <g fill="url(#gold)">
+    <path d="M78 54C98 54 112 51 132 44C125 58 112 68 84 68C72 68 58 65 50 62C60 56 66 54 78 54Z"/>
+    <path d="M84 72C107 72 124 67 140 59C134 74 118 83 94 83C76 83 62 80 50 74C60 73 73 72 84 72Z"/>
+    <path d="M94 88C118 88 137 83 150 75C147 90 131 98 107 98C90 98 70 95 55 90C69 89 82 88 94 88Z"/>
+
+    <path d="M342 54C322 54 308 51 288 44C295 58 308 68 336 68C348 68 362 65 370 62C360 56 354 54 342 54Z"/>
+    <path d="M336 72C313 72 296 67 280 59C286 74 302 83 326 83C344 83 358 80 370 74C360 73 347 72 336 72Z"/>
+    <path d="M326 88C302 88 283 83 270 75C273 90 289 98 313 98C330 98 350 95 365 90C351 89 338 88 326 88Z"/>
+
+    <path d="M152 94V50H168L210 86L252 50H268V94H252V70L210 100L168 70V94H152Z"/>
+  </g>
+
+  <g fill="#EADAA0">
+    <path d="M196 34L199 42H191L196 34Z"/>
+    <path d="M210 25L214 35H204L210 25Z"/>
+    <path d="M224 34L228 42H220L224 34Z"/>
+  </g>
+
+  <text x="210" y="126" text-anchor="middle" font-size="27" font-family="'Arial Black', Arial, sans-serif" fill="#EF432A" letter-spacing="1.2">MasterClass</text>
+  <text x="210" y="149" text-anchor="middle" font-size="15" font-family="Arial, sans-serif" fill="#F1EFE8" letter-spacing="6">DETAILING CO.</text>
+</svg>
