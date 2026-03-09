@@ -165,7 +165,7 @@ body {
   position: relative;
   z-index: 1;
   max-width: 760px;
-  padding: 5.5rem 0;
+  padding: 3.75rem 0 5.5rem;
 }
 
 .eyebrow,
