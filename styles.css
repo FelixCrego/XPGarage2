@@ -164,8 +164,8 @@ body {
 .hero-content {
   position: relative;
   z-index: 1;
-  max-width: 680px;
-  padding: 5.5rem 0;
+  max-width: 760px;
+  padding: 3.75rem 0 5.5rem;
 }
 
 .eyebrow,
@@ -189,8 +189,8 @@ h3 {
 
 h1 {
   margin-top: 0.95rem;
-  font-size: clamp(2.6rem, 6vw, 5.25rem);
-  line-height: 0.92;
+  font-size: clamp(2.2rem, 5vw, 4.35rem);
+  line-height: 0.94;
 }
 
 h1 span {
